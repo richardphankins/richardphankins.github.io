@@ -1,7 +1,10 @@
 ---
-title: Welcome to Quartz
+title: Hey Lena
 ---
-Hey Lena can we get a cat?
+Can we get a cat?
+
+xoxo
+richard
 
 😸
 
