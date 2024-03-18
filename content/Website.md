@@ -8,7 +8,7 @@ I'd recommend his [tutorial & documentation](https://quartz.jzhao.xyz/), along w
 Some troubleshooting tips that I'd like to clear up, in case someone has similar difficulties:
 1. You'll need to install [git](https://git-scm.com/). There are many options on install, but I left them all on their default option.
 2. You must put the custom domain URL in the quartz.config.ts file, in the "baseURL".  For example, my line 18 looks like this:
-	   `baseUrl: "richardhankins.me",`
+	   `baseUrl: "richardhankins.me",`.
 3. For Windows, when the instructions reference Terminal, that's either "command prompt", or "Windows Powershell". Powershell is a bit prettier, so I use that.
 4. Downloading NodeJS also downloads npm for you, which can save a step.
 
