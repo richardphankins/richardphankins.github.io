@@ -1,5 +1,5 @@
 ---
-title: Richard Hankins - Personal Site
+title:
 ---
 I'm Richard Hankins. I'm creating this site as a work-in-progress index of where I am and what I've done, in a semi-professional context.  I'm currently the Executive Director for [Partnership for Smarter Growth](https://psgrichmond.org), but have also done work for both [RVA Rapid Transit](https://rvarapidtransit.org) and [Transit Alliance](https://transitalliance.miami) Miami.
 
