@@ -24,7 +24,7 @@ const config: QuartzConfig = {
       typography: {
         header: "League Spartan",
         body: "DM Serif Text",
-        code: "IBM Plex Mono",
+        code: "Cutive Mono",
       },
       colors: {
         lightMode: {
