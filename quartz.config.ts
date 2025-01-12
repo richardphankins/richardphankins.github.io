@@ -24,7 +24,7 @@ const config: QuartzConfig = {
       cdnCaching: true,
       typography: {
         header: "League Spartan",
-        body: "DM Serif Text",
+        body: "Playfair",
         code: "Cutive Mono",
       },
       colors: {
