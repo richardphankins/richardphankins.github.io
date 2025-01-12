@@ -11,5 +11,6 @@ Some troubleshooting tips that I'd like to clear up, in case someone has similar
 	   `baseUrl: "richardhankins.me",`
 3. For Windows, when the instructions reference Terminal, that's either "command prompt", or "Windows Powershell". Powershell is a bit prettier, so I use that.
 4. Downloading NodeJS also downloads npm for you, which can save a step.
+5. DO NOT PUT YOUR DIRECTORY INTO A CLOUD STORAGE FOLDER. It fundamentally breaks how git & github work. Aka `npx quartz sync` will not work. Github backs up your code anyways.
 
 
