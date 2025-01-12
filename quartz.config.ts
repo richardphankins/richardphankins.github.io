@@ -23,7 +23,7 @@ const config: QuartzConfig = {
       fontOrigin: "googleFonts",
       cdnCaching: true,
       typography: {
-        header: "Alfa Slab One",
+        header: "Racing Sans One",
         body: "Spectral",
         code: "Cutive Mono",
       },
